@@ -1,0 +1,98 @@
+{
+  "name": "Oven-Baked Stuffed Pork Chops",
+  "servings": 6,
+  "prep_minutes": 15,
+  "cook_minutes": 25,
+  "total_minutes": 45,
+  "ingredients": [
+    {
+      "name": "boneless pork chops",
+      "amount": 6,
+      "unit": null,
+      "preparation": null,
+      "form": null
+    },
+    {
+      "name": "adobo seasoning",
+      "amount": 1,
+      "unit": "tablespoon",
+      "preparation": null,
+      "form": null
+    },
+    {
+      "name": "packet sazon seasoning",
+      "amount": 1,
+      "unit": null,
+      "preparation": null,
+      "form": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": 0.5,
+      "unit": "teaspoon",
+      "preparation": null,
+      "form": null
+    },
+    {
+      "name": "ground black pepper",
+      "amount": 0.33333334326744,
+      "unit": "teaspoon",
+      "preparation": null,
+      "form": null
+    },
+    {
+      "name": "salt",
+      "amount": 0.25,
+      "unit": "teaspoon",
+      "preparation": null,
+      "form": null
+    },
+    {
+      "name": "Italian dressing",
+      "amount": 3,
+      "unit": "tablespoon",
+      "preparation": "divided",
+      "form": null
+    },
+    {
+      "name": "water",
+      "amount": 1.5,
+      "unit": "cup",
+      "preparation": null,
+      "form": null
+    },
+    {
+      "name": "margarine",
+      "amount": 0.25,
+      "unit": "cup",
+      "preparation": null,
+      "form": null
+    },
+    {
+      "name": "",
+      "amount": 6,
+      "unit": null,
+      "preparation": null,
+      "form": null
+    },
+    {
+      "name": "toothpicks",
+      "amount": null,
+      "unit": null,
+      "preparation": null,
+      "form": null
+    },
+    {
+      "name": "water",
+      "amount": 1,
+      "unit": "tablespoon",
+      "preparation": "or as desired",
+      "form": null
+    }
+  ],
+  "instructions": "Gather all ingredients. Preheat the oven to 300 degrees F (150 degrees C).\nPlace pork chops in a large bowl and season all sides with adobo seasoning, saz\u00f3n seasoning, garlic powder, black pepper, and salt; add 2 tablespoons Italian dressing and flip to coat.\nBring 1 1/2 cups water and butter to a boil in a saucepan; add stuffing mix and cover.\nRemove saucepan from heat and set aside until stuffing absorbs water, about 5 minutes; fluff with a fork.\nRemove pork chops from the bowl, reserving liquid and seasonings.\nLay each pork chop flat on a cutting board and with a sharp knife held parallel to the board, cut a pocket into the pork, leaving three sides intact.\nStuff each pork chop with stuffing and close the pocket using a toothpick.\nArrange pork chops on a baking sheet. Mix remaining 1 tablespoon Italian dressing and 1 tablespoon water with reserved juices from pork chops; pour over pork chops.\nBake in the preheated oven until pork chops are cooked through, 25 to 35 minutes. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C).",
+  "notes": null,
+  "tags": [],
+  "source_url": "https://www.allrecipes.com/recipe/239506/oven-baked-stuffed-pork-chops/",
+  "image_url": "https://www.allrecipes.com/thmb/9gP2Z_EzQeeMKVHMMSP7e8fGDsk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-239506-oven-baked-stuffed-pork-chops-ddmfs-4x3-5d13c4f2385147d09ea717c071a9fc4a.jpg"
+}

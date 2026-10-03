@@ -21,7 +21,6 @@ UNITS = {
 
 def parse_amount(value: str) -> float | None:
     parts = value.split()
-    print(value)
 
     if len(parts) == 2 and "/" in parts[1]:
         try:
