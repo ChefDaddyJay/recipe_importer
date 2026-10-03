@@ -2,6 +2,7 @@ from dataclasses import asdict
 import json
 from pprint import pprint
 from argparse import ArgumentParser
+from pathlib import Path
 
 from recipe_importer.scraper import scrape_recipe
 from recipe_importer.normalizer import normalize_recipe
@@ -30,7 +31,10 @@ def main():
 
     recipe = normalize_recipe(raw_recipe)
 
-    with open(args.output, "w") as file:
+    output_path = Path(args.output)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    with output_path.open("w", encoding="utf-8") as file:
         json.dump(asdict(recipe), file, indent=2)
 
     print(f'Recipe: {recipe.name} imported to {args.output} from {args.url}')
